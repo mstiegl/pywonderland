@@ -43,7 +43,7 @@ import cmath
 import cairocffi as cairo
 
 
-# three generator of the modular group, None means "infinity"
+# three generators of the modular group, None means "infinity"
 A = lambda z: None if z is None else z + 1
 B = lambda z: None if z is None else z - 1
 C = lambda z: None if z == 0j else 0j if z is None else -1 / z
