@@ -1,1 +1,1 @@
-This directory contains helper files for glsl programming shared by shader programs in this repo.
+This directory contains helper files shared by shader programs in this repo.
